@@ -1,0 +1,6 @@
+export const IS_EDITED = 'IS_EDITED'
+export const SET_TEXT = 'SET_TEXT'
+export const OPEN_MODAL = 'OPEN_MODAL'
+export const GET_TEXT = 'GET_TEXT'
+export const GET_LIST = 'GET_LIST'
+export const SET_CONTENT = 'SET_CONTENT'
