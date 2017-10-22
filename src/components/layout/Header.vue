@@ -85,6 +85,7 @@ export default {
       this.edit()
       if (this.$route.name === 'Add') {
         this.saveText()
+        this.goTo('/')
       } else {
         this.updateText()
         this.goTo(`/view/${category}/${topic}/`)
