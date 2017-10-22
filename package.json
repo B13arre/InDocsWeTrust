@@ -1,7 +1,7 @@
 {
   "name": "indocswetrust",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Редактор для написания документации на языке Markdown (маркдаун)",
   "author": "myfailemtions <myfailemtions@gmail.com>",
   "private": true,
   "scripts": {
